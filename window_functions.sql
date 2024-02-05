@@ -18,7 +18,3 @@ VALUES
 	(2020,2,1975),
 	(2020,3,1516)
 ;
-
---https://www.postgresqltutorial.com/postgresql-window-function/
-
-
