@@ -52,6 +52,7 @@ from weather a
 where a.temperature > a.previous_temperature  
 and datediff(previous_recorddate,recorddate) = -1 ; 
 
+
 -- another solution 
 select w1.id from weather w1 
 join weather w2 
